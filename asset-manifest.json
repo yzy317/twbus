@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/twbus/static/css/main.dde30673.css",
+    "main.js": "/twbus/static/js/main.f43aeca1.js",
+    "static/media/HomePageBackground.jpg": "/twbus/static/media/HomePageBackground.bce2100b5760b62d5150.jpg",
+    "static/media/ways.png": "/twbus/static/media/ways.431558a48ef6930d2d3b.png",
+    "index.html": "/twbus/index.html",
+    "main.dde30673.css.map": "/twbus/static/css/main.dde30673.css.map",
+    "main.f43aeca1.js.map": "/twbus/static/js/main.f43aeca1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dde30673.css",
+    "static/js/main.f43aeca1.js"
+  ]
+}
